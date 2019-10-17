@@ -1,0 +1,10 @@
+C:\Users\stiicky\Documents\RepasoASP\EstadoVariables\EstadoVariables\bin\Debug\EstadoVariables.exe.config
+C:\Users\stiicky\Documents\RepasoASP\EstadoVariables\EstadoVariables\bin\Debug\EstadoVariables.exe
+C:\Users\stiicky\Documents\RepasoASP\EstadoVariables\EstadoVariables\bin\Debug\EstadoVariables.pdb
+C:\Users\stiicky\Documents\RepasoASP\EstadoVariables\EstadoVariables\obj\Debug\EstadoVariables.csprojAssemblyReference.cache
+C:\Users\stiicky\Documents\RepasoASP\EstadoVariables\EstadoVariables\obj\Debug\EstadoVariables.Form1.resources
+C:\Users\stiicky\Documents\RepasoASP\EstadoVariables\EstadoVariables\obj\Debug\EstadoVariables.Properties.Resources.resources
+C:\Users\stiicky\Documents\RepasoASP\EstadoVariables\EstadoVariables\obj\Debug\EstadoVariables.csproj.GenerateResource.cache
+C:\Users\stiicky\Documents\RepasoASP\EstadoVariables\EstadoVariables\obj\Debug\EstadoVariables.csproj.CoreCompileInputs.cache
+C:\Users\stiicky\Documents\RepasoASP\EstadoVariables\EstadoVariables\obj\Debug\EstadoVariables.exe
+C:\Users\stiicky\Documents\RepasoASP\EstadoVariables\EstadoVariables\obj\Debug\EstadoVariables.pdb

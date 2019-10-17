@@ -16,5 +16,15 @@ namespace EstadoVariables
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            txtNumero.Text = "1";
+        }
+
+        private void BtnIncrementar_Click(object sender, EventArgs e)
+        {
+            txtNumero.Text = (Convert.ToInt32(txtNumero.Text) + 1).ToString();
+        }
     }
 }
